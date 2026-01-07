@@ -1,0 +1,66 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+
+# Node modules (если используется)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python (если используются скрипты)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.tar.gz
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# GitHub Pages
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Large files (опционально, если нужно ограничить размер)
+# *.psd
+# *.ai
+# *.sketch
+
